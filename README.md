@@ -1,5 +1,7 @@
 <h2 align="center">🔧 Engineer by day | 🤔 Problem-slayer by choice | 👀 Occasional digital mischief-maker</h2>
 
+<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc0OTR2d2o0dTRkM3FxdHNtc3ZiNmMweTR4aDdsdDR0c3FmOTlyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" width="400" /></p>
+
 <p align="center">
   I thrive on solving tough problems, streamlining workflows, and finding clever ways to make things tick smoother and faster.
   
