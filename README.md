@@ -1,6 +1,6 @@
 <h2 align="center">🔧 Engineer by day | 🤔 Problem-slayer by choice | 📷 Photographer by night </h2>
 
-<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRnenVnZ2NtdTRyZjE5dmZkcWc3OGpiczN4dzlxYmVkMzJwa3BnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rVVFWyTINqG7C/giphy.gif" width="400" /></p>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNpMTJ4bm1sem4xeTR1YXl2MzB2ZWprdnRsbXZ2NzBjd285a2N6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" width="400" /></p>
 
 <p align="center">
   I thrive on solving tough problems, streamlining workflows, and finding clever ways to make things tick smoother and faster.
