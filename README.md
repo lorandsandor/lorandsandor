@@ -1,4 +1,4 @@
-<h2 align="center">🔧 Engineer by day | 🤔 Problem-slayer by night</h2>
+<h2 align="center">🔧 Engineer by day | 🤔 Life Coach by night</h2>
 
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNpMTJ4bm1sem4xeTR1YXl2MzB2ZWprdnRsbXZ2NzBjd285a2N6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" width="400" /></p>
 
